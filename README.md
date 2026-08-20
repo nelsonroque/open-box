@@ -17,6 +17,9 @@ Given that the housing material will have an effect on the levels of air quality
 
 ### Option 1: 3d-printed
 
+ - [V1](models/v1)
+ - [V2](models/v2)
+
 ### Option 2: Wood
 
 ### Option 3: Glass
@@ -26,3 +29,4 @@ Given that the housing material will have an effect on the levels of air quality
 ### Option 5: Drywall
 
 ## Bill of Materials (BOM)
+
