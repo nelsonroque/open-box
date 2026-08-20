@@ -4,7 +4,7 @@ This project aims to create an open-source box for testing pollutants with vario
 
 We currently have two ideas, one is a lid-based closing mechanism, and another is a gasket like what would be used in sand-blasting
 
-[!Hand-sketch](Screenshot 2026-08-20 at 9.59.59 AM.png)
+![Hand-sketch](Screenshot%202026-08-20%20at%209.59.59%20AM.png)
 
 The box will be abailable as an STL file with a BOM for all else needed.
 
