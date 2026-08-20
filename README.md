@@ -8,7 +8,11 @@ This repository will be updated over time.
 
 ## Implementation Ideas
 
-Given that the housing material will have an effect on the levels of air quality detected, we will test various housing materials, including: (1) 3d-printed (PLA, PETG, TPU), (2) Wood (Pine); (3) Glass; (4) Acrylic of varying thicknesses.
+Given that the housing material will have an effect on the levels of air quality detected, we will test various housing materials, including: 
+    (1) 3d-printed (PLA, PETG, TPU),
+    (2) Wood (Pine); 
+    (3) Glass; 
+    (4) Acrylic of varying thicknesses.
 
 ### Option 1: 3d-printed
 
